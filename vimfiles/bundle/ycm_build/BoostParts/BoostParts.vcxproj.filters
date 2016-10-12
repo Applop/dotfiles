@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\atomic\src\lockpool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\chrono\src\chrono.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\chrono\src\process_cpu_clocks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\chrono\src\thread_clock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\date_time\src\gregorian\date_generators.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\date_time\src\gregorian\greg_month.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\date_time\src\gregorian\greg_weekday.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\date_time\src\gregorian\gregorian_types.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\date_time\src\posix_time\posix_time_types.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\exception\src\clone_current_exception_non_intrusive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\codecvt_error_category.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\operations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\path.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\path_traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\portability.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\unique_path.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\utf8_codecvt_facet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\windows_file_codecvt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\converter\arg_to_python_base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\converter\builtin_converters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\converter\from_python.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\converter\registry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\converter\type_id.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\dict.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\errors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\exec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\import.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\long.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\module.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\numeric.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\object\class.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\object\enum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\object\function.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\object\function_doc_signature.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\object\inheritance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\object\iterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\object\life_support.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\object\pickle_support.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\object\stl_iterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\object_operators.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\object_protocol.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\slice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\str.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\tuple.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\python\src\wrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\c_regex_traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\cpp_regex_traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\cregex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\fileiter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\icu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\instances.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\posix_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\regex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\regex_debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\regex_raw_buffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\regex_traits_defaults.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\static_mutex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\usinstances.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\w32_regex_traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\wc_regex_traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\wide_posix_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\winstances.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\archive_exception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_archive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_iarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_iserializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_oarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_oserializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_pointer_iserializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_pointer_oserializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_serializer_map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_text_iprimitive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_text_oprimitive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_text_wiprimitive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_text_woprimitive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\basic_xml_archive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\binary_iarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\binary_oarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\binary_wiarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\binary_woarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\codecvt_null.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\extended_type_info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\extended_type_info_no_rtti.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\extended_type_info_typeid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\polymorphic_iarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\polymorphic_oarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\singleton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\stl_port.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\text_iarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\text_oarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\text_wiarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\text_woarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\utf8_codecvt_facet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\void_cast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\xml_archive_exception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\xml_grammar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\xml_iarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\xml_oarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\xml_wgrammar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\serialization\src\xml_wiarchive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\smart_ptr\src\sp_collector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\smart_ptr\src\sp_debug_hooks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\system\src\error_code.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\timer\src\auto_timers_construction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\timer\src\cpu_timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\thread\src\future.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\thread\src\win32\thread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\thread\src\win32\tss_dll.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\thread\src\win32\tss_pe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{01192670-1230-3507-BD62-48A8517811C5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

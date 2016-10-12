@@ -1,0 +1,15 @@
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/CMakeFiles/ALL_BUILD.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/CMakeFiles/ZERO_CHECK.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/BoostParts/CMakeFiles/BoostParts.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/BoostParts/CMakeFiles/ALL_BUILD.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/ycm/CMakeFiles/ycm_core.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/ycm/CMakeFiles/ALL_BUILD.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/ycm/tests/CMakeFiles/ycm_core_tests.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/ycm/tests/CMakeFiles/copy_testdata.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/ycm/tests/CMakeFiles/ALL_BUILD.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/ycm/tests/gmock/CMakeFiles/gmock.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/ycm/tests/gmock/CMakeFiles/gmock_main.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/ycm/tests/gmock/CMakeFiles/ALL_BUILD.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/ycm/tests/gmock/gtest/CMakeFiles/gtest.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/ycm/tests/gmock/gtest/CMakeFiles/gtest_main.dir
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/ycm/tests/gmock/gtest/CMakeFiles/ALL_BUILD.dir

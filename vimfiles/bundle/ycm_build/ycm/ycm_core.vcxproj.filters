@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Candidate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CandidateRepository.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\ClangCompleter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\ClangHelpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\ClangUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\CompilationDatabase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\CompletionData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\Documentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\Range.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\TranslationUnit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\TranslationUnitStore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CustomAssert.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierCompleter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierDatabase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\LetterNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\LetterNodeListMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\PythonSupport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Result.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\versioning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ycm_core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Candidate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CandidateRepository.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\ClangCompleter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\ClangHelpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\ClangUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\CompilationDatabase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\CompletionData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\Diagnostic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\Documentation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\Location.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\Range.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\TranslationUnit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\TranslationUnitStore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ClangCompleter\UnsavedFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CustomAssert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\DLLDefines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierCompleter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierDatabase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\LetterNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\LetterNodeListMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\PythonSupport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ReleaseGil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Result.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\exceptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\standard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\versioning.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{01192670-1230-3507-BD62-48A8517811C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9B007B8B-9F66-3B98-BA05-A6258333CAEF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

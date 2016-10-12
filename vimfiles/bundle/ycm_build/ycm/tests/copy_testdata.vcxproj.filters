@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Local\OrCAD_Data\.vim\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\tests\CMakeLists.txt" />
+    <CustomBuild Include="C:\Program Files (x86)\Vim\vimfiles\bundle\ycm_build\CMakeFiles\e9c4362a83fe4a65af610b26173269b0\copy_testdata.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Program Files (x86)\Vim\vimfiles\bundle\ycm_build\ycm\tests\CMakeFiles\copy_testdata" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{77F00445-CBBB-3DED-8BC5-5815234A74DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

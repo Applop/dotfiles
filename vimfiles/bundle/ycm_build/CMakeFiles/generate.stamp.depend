@@ -1,0 +1,29 @@
+# CMake generation dependency list for this directory.
+C:/Local/OrCAD_Data/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/CMakeLists.txt
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/CMakeFiles/3.6.1/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/CMakeFiles/3.6.1/CMakeCCompiler.cmake
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/CMakeFiles/3.6.1/CMakeCXXCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/Vim/vimfiles/bundle/ycm_build/CMakeFiles/3.6.1/CMakeRCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/FindPythonLibs.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeFindFrameworks.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeParseArguments.cmake
